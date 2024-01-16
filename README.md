@@ -1,8 +1,8 @@
-# Pokémon Insights Project
+# Pokémon Exploratory Data Analysis
 
-![Pokemon](pokemon_image.png)
+![Pokemon](pikachu.jpg)
 
-Welcome to the Pokémon Insights project repository! This project is an in-depth exploration of Pokémon attributes using data analysis techniques. Through Python scripts and Jupyter Notebook, we delve into the intricate world of Pokémon, uncovering insights, correlations, and patterns within their attributes.
+Welcome to the Pokémon Exploratory Data Analysis project repository! This project is an in-depth exploration of Pokémon attributes using data analysis techniques. Through Python scripts and Jupyter Notebook, we delve into the intricate world of Pokémon, uncovering insights, correlations, and patterns within their attributes.
 
 ## Project Overview
 
@@ -19,8 +19,13 @@ In this project, we aim to answer key questions and gain insights into various a
 
 - `script.py`: Python script containing data analysis and visualization code.
 - `colors.py`: Python script defining custom colors for plots.
-- `All_Pokemon.csv`: Dataset containing attributes of over 1000 Pokémon species.
+- `pokemon_data.csv`: Dataset containing attributes of over 1000 Pokémon species.
 - `notebook.ipynb`: Jupyter Notebook containing the complete data analysis process.
+
+## Requirements
+
+- Python 3.10
+- Libraries: Numpy, Pandas, Matplotlib, and Scipy
 
 ## Project Structure
 
@@ -36,12 +41,3 @@ In this project, we aim to answer key questions and gain insights into various a
 3. Run the `script.py` or explore the `notebook.ipynb` to see the complete analysis.
 
 Feel free to contribute, share your insights, or use this project as a reference for your own data analysis projects!
-
-## Dependencies
-
-- Python 3.x
-- Libraries: Numpy, Pandas, Matplotlib, and Scipy
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
