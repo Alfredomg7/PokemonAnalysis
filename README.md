@@ -1,6 +1,6 @@
 # Pokémon Exploratory Data Analysis
 
-![Pokemon](pikachu.jpg)
+![Pokemon](pikachu.png)
 
 Welcome to the Pokémon Exploratory Data Analysis project repository! This project is an in-depth exploration of Pokémon attributes using data analysis techniques. Through Python scripts and Jupyter Notebook, we delve into the intricate world of Pokémon, uncovering insights, correlations, and patterns within their attributes.
 
@@ -37,7 +37,8 @@ In this project, we aim to answer key questions and gain insights into various a
 ## Getting Started
 
 1. Clone this repository: `git clone https://github.com/yourusername/pokemon-insights.git`
-2. Navigate to the project directory: `cd pokemon-insights`
-3. Run the `script.py` or explore the `notebook.ipynb` to see the complete analysis.
+2. Install requirements: `pip install numpy pandas matplotlib scipy`
+3. Navigate to the project directory: `cd pokemon-insights`
+4. Run the `script.py` or explore the `notebook.ipynb` to see the complete analysis.
 
 Feel free to contribute, share your insights, or use this project as a reference for your own data analysis projects!
